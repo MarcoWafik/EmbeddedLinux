@@ -1,0 +1,9 @@
+#!/bin/bash
+
+mkdir /home/myDirectory
+mkdir /home/myDirectory/secondDirectory
+cd /home/myDirectory/secondDirectory
+touch ./myNotePaper
+cp ./myNotePaper ../
+cd /home/myDirectory
+mv ./myNotePaper ./myOldNotePaper
