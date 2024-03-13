@@ -31,7 +31,7 @@ int BinarySearch ( int* ptrToArray , int arraySize , int searchedElement )
 int main()
 {
 	int arr[] = {1,2,3,4};
-	printf("%d\n",BinarySearch (arr , 4 ,4));
+	printf("%d\n",BinarySearch (arr , 4 ,3));
 }
 
 
