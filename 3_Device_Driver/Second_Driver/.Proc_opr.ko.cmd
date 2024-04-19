@@ -1,0 +1,1 @@
+cmd_/home/marco/EmbeddedLinux/3_Device_Driver/Second_Driver/Proc_opr.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/marco/EmbeddedLinux/3_Device_Driver/Second_Driver/Proc_opr.ko /home/marco/EmbeddedLinux/3_Device_Driver/Second_Driver/Proc_opr.o /home/marco/EmbeddedLinux/3_Device_Driver/Second_Driver/Proc_opr.mod.o;  true

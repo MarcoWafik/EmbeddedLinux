@@ -1,0 +1,1 @@
+cmd_/home/marco/EmbeddedLinux/3_Device_Driver/Second_Driver/modules.order := {   echo /home/marco/EmbeddedLinux/3_Device_Driver/Second_Driver/Proc_opr.ko; :; } | awk '!x[$$0]++' - > /home/marco/EmbeddedLinux/3_Device_Driver/Second_Driver/modules.order

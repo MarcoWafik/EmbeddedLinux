@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "proc_fs.h": "c"
+    }
+}
